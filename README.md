@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Frontend Web Developer<br>🎨 UX/UI Oriented<br>👨🏻‍💻 Also learning some backend<br>📍Guadalajara, Spain
+💻 Frontend Web Developer<br>🎨 UX/UI Oriented<br>👨🏻‍💻 Also working on improving my backend skills.<br>📍Guadalajara, Spain
 
 
 ## 🌐 Socials:
